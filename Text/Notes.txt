@@ -1,0 +1,5 @@
+java uses Unicode system not ASCII code system. The \u0000 is the lowest range of Unicode system.
+In unicode, character holds 2 byte,
+lowest value:\u0000
+highest value:\uFFFF
+
