@@ -26,6 +26,7 @@ public class OddEvenFinder {
 		{
 			System.out.println("Number is Odd");
 		}
+		sc.close();
 	}
 
 }

@@ -1,5 +1,12 @@
 package com.basic;
 
+/**
+ * Author
+ * Sambhaji Pandhare
+ * Software Engineer
+ * +91 841 104 1938
+ */
+
 import java.util.Scanner;
 
 public class AreaOfEquilateralTriangle {
