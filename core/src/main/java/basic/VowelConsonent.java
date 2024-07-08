@@ -1,4 +1,4 @@
-package com.basic;
+package basic;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class VowelConsonent {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please Enter Character");
 		ch = sc.nextLine().charAt(0);
-		if(ch<'A' || ch>'z') {
+		if((ch<'A' || ch>'Z') && (ch<'a'|| ch>'z')) {
 			System.out.println("Invalid Input");
 		}
 		else if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U') {
