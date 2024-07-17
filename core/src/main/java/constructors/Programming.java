@@ -15,5 +15,10 @@ public class Programming {
 	public static void main(String[] args) {
 		Programming programming = new Programming();
 		Programming programming2 = new Programming("Java and Python");
+		programming=null;
+		programming2=null;
+		programming=programming2;
+		programming2=programming;
+		System.gc();
 	}
 }
