@@ -1,0 +1,27 @@
+Jira
+GitHub
+Git
+JDK 8
+Eclipse
+SpringBoot 3.3
+Hbernate 
+Maven
+MySQL 8.0
+
+
+Postmon
+AWS
+Jenkins
+
+
+
+Logger
+Juint Testing
+Design Pattern
+Spring Security
+Kafka
+Microservices(feign client) async(kafka and RabbitMQ)
+Server
+Multithreading
+Exception Handling
+Docker
